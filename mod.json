@@ -1,0 +1,17 @@
+{
+    "name": "The Cum Queen",
+    "description": "A semen addicted sexbot.",
+    "OnGameStart": {
+        "luaScript": "",
+        "luaFiles": [
+            "script.lua"
+        ]
+    },
+    "targetVersion": "0.96.7",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639174000000000000,
+        "guid": {
+            "serializedGuid": "d2f47c81-19b3-4e28-91df-85a203cb7f10"
+        }
+    }
+}
